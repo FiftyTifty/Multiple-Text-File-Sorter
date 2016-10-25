@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="MultipleTextFileSorter.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="programwindow.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="formProgramWindow"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="34"/>
+        <CursorPos X="49" Y="55"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="majincryfunctions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MajinCryFunctions"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="14" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="mainprogramcode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MainProgramCode"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="47" Y="24"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="15" HistoryIndex="14">
+      <Position1>
+        <Filename Value="programwindow.pas"/>
+        <Caret TopLine="7"/>
+      </Position1>
+      <Position2>
+        <Filename Value="programwindow.pas"/>
+        <Caret Line="38" Column="3" TopLine="16"/>
+      </Position2>
+      <Position3>
+        <Filename Value="programwindow.pas"/>
+        <Caret Line="41" Column="71" TopLine="19"/>
+      </Position3>
+      <Position4>
+        <Filename Value="programwindow.pas"/>
+        <Caret Line="20" Column="49" TopLine="10"/>
+      </Position4>
+      <Position5>
+        <Filename Value="programwindow.pas"/>
+        <Caret Line="19" Column="38" TopLine="10"/>
+      </Position5>
+      <Position6>
+        <Filename Value="programwindow.pas"/>
+        <Caret Line="40" Column="29" TopLine="16"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mainprogramcode.pas"/>
+        <Caret Line="6" Column="61"/>
+      </Position7>
+      <Position8>
+        <Filename Value="programwindow.pas"/>
+        <Caret Line="53" Column="26" TopLine="33"/>
+      </Position8>
+      <Position9>
+        <Filename Value="programwindow.pas"/>
+        <Caret Line="54" Column="26" TopLine="34"/>
+      </Position9>
+      <Position10>
+        <Filename Value="programwindow.pas"/>
+        <Caret Line="53" Column="26" TopLine="33"/>
+      </Position10>
+      <Position11>
+        <Filename Value="mainprogramcode.pas"/>
+        <Caret Line="15" Column="76" TopLine="11"/>
+      </Position11>
+      <Position12>
+        <Filename Value="mainprogramcode.pas"/>
+        <Caret Line="17" Column="51" TopLine="2"/>
+      </Position12>
+      <Position13>
+        <Filename Value="mainprogramcode.pas"/>
+        <Caret Line="16" Column="74"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mainprogramcode.pas"/>
+        <Caret Line="11" Column="45"/>
+      </Position14>
+      <Position15>
+        <Filename Value="programwindow.pas"/>
+        <Caret Line="8" Column="3"/>
+      </Position15>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
